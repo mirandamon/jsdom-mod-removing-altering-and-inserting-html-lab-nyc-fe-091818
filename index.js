@@ -8,4 +8,3 @@ header.id = 'victory'
 header.innerText = 'Nathan is the champion!'
 document.body.appendChild(header)
 const newHeader = document.querySelector('#victory');
-
