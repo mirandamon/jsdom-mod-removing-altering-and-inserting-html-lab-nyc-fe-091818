@@ -3,6 +3,6 @@
 main.remove()
 
 /* Create your new element here and assign it to newHeader */
-
+const header = document.createElement('h1')
 const newHeader = null;
 
