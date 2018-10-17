@@ -4,6 +4,8 @@ main.remove()
 
 /* Create your new element here and assign it to newHeader */
 const header = document.createElement('h1')
+console.log(header)
 header.id = 'victory'
+console.log(header)
 const newHeader = null;
 
